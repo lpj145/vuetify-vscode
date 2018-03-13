@@ -42,6 +42,9 @@ If you want to see list of all available props of a component. Just write `v{com
 
 If you want to insert a component with all of its props. Just write `v{component-name}WithProps`. This will insert component with all of its props. For example : `vBtnWithProps`, `vAvatarWithProps` etc.
 
+## Upcoming features
+- on hover documentaion for components and props
+
 ## Questions
 If you have any questions, ideas or you want to discuss with me. Just raise a issue in `vuetify-vscode` [github repository](https://github.com/vuetifyjs/vuetify-vscode/issues).
 
