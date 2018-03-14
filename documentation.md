@@ -104,7 +104,7 @@
 - vBtnDepressed -> v-btn with depressed prop
 - vBtnDropdown -> v-select as button with dropdown varient
 - vBtnToggle -> v-btn-toggle as button
-- vBtnToggelTemplate -> v-btn-toggle simple template
+- vBtnToggleTemplate -> v-btn-toggle simple template
 - vBtnToggleTemplateText -> v-btn-toggle template with text
 - vBtnToggleTemplateTextIcon -> v-btn-toggle with text and icon
 - vBtnIcon -> v-btn as icon

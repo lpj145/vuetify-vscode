@@ -2125,7 +2125,7 @@
     "description": "v-btn-toggle as button - Vuetify"
   },
   "v-btn-toggle simple template": {
-    "prefix": "vBtnToggelTemplate",
+    "prefix": "vBtnToggleTemplate",
     "body": [
       "<v-btn-toggle ${1:mandatory} ${2:multiple} v-model=\"${3:value}\">",
       "  <v-btn flat>",

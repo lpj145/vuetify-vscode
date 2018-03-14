@@ -27,6 +27,7 @@ Can also be installed using
 ext install vuetifyjs.vuetify-vscode
 ```
 ##  Usage
+### Snippet
 You don't need usage example if you are familiar with concept of snippets or you looked up the documentation. But here is an example:
 
 Let's suppose you want to insert Button componenet. For that you have to write full component.
@@ -42,8 +43,29 @@ If you want to see list of all available props of a component. Just write `v{com
 
 If you want to insert a component with all of its props. Just write `v{component-name}WithProps`. This will insert component with all of its props. For example : `vBtnWithProps`, `vAvatarWithProps` etc.
 
+### Templates
+Every component in the Vuetify have additional code to write inside it. For example the `v-btn-toggle` component have `v-btn` inside it. Thats why `vuetify-vscode` provides templates for them.
+The syntax of template is pretty easy. `v{component}Template` or `v{component}Template{availableTemplate}`
+For example `vBtnToggleTemplate` will give you following code.
+
+```
+<v-btn-toggle mandatory multiple v-model="value">
+  <v-btn flat>
+    <v-icon>icon</v-icon>
+  </v-btn>
+  <v-btn flat>
+    <v-icon>icon</v-icon>
+  </v-btn>
+  <v-btn flat>
+    <v-icon>icon</v-icon>
+  </v-btn>
+  <v-btn flat>
+    <v-icon>icon</v-icon>
+  </v-btn>
+</v-btn-toggle>
+```
 ## Upcoming features
-- on hover documentaion for components and props
+- on hover documentation for components and props
 
 ## Questions
 If you have any questions, ideas or you want to discuss with me. Just raise a issue in `vuetify-vscode` [github repository](https://github.com/vuetifyjs/vuetify-vscode/issues).

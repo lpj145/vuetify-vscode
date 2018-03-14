@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to `vuetify-vscode` will be documented in this file.
-
+## 0.1.0 - 2018-03-14
+### Fixed
+- spelling of `vBtnToglgeTemplate` to `vBtnToggleTemplate`
+### Added
+- added usage for template in README.md
 ## 0.0.10 - 2018-03-13
 ### Moved
 - deleted old repository and moved to vuetify-vscode
