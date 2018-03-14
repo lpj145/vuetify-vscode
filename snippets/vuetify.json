@@ -9948,427 +9948,427 @@
     "body": [
       "elevation-1$0"
     ],
-    "description": "elevation-1 - Vuetify"
+    "description": "elevatio by -1 - Vuetify"
   },
   "elevation-2": {
     "prefix": "elevation2",
     "body": [
       "elevation-2$0"
     ],
-    "description": "elevation-2 - Vuetify"
+    "description": "elevatio by -2 - Vuetify"
   },
   "elevation-3": {
     "prefix": "elevation3",
     "body": [
       "elevation-3$0"
     ],
-    "description": "elevation-3 - Vuetify"
+    "description": "elevatio by -3 - Vuetify"
   },
   "elevation-4": {
     "prefix": "elevation4",
     "body": [
       "elevation-4$0"
     ],
-    "description": "elevation-4 - Vuetify"
+    "description": "elevatio by -4 - Vuetify"
   },
   "elevation-5": {
     "prefix": "elevation5",
     "body": [
       "elevation-5$0"
     ],
-    "description": "elevation-5 - Vuetify"
+    "description": "elevatio by -5 - Vuetify"
   },
   "elevation-6": {
     "prefix": "elevation6",
     "body": [
       "elevation-6$0"
     ],
-    "description": "elevation-6 - Vuetify"
+    "description": "elevatio by -6 - Vuetify"
   },
   "elevation-7": {
     "prefix": "elevation7",
     "body": [
       "elevation-7$0"
     ],
-    "description": "elevation-7 - Vuetify"
+    "description": "elevatio by -7 - Vuetify"
   },
   "elevation-8": {
     "prefix": "elevation8",
     "body": [
       "elevation-8$0"
     ],
-    "description": "elevation-8 - Vuetify"
+    "description": "elevatio by -8 - Vuetify"
   },
   "elevation-9": {
     "prefix": "elevation9",
     "body": [
       "elevation-9$0"
     ],
-    "description": "elevation-9 - Vuetify"
+    "description": "elevatio by -9 - Vuetify"
   },
   "elevation-10": {
     "prefix": "elevation10",
     "body": [
       "elevation-10$0"
     ],
-    "description": "elevation-10 - Vuetify"
+    "description": "elevation by 10 - Vuetify"
   },
   "elevation-11": {
     "prefix": "elevation11",
     "body": [
       "elevation-11$0"
     ],
-    "description": "elevation-11 - Vuetify"
+    "description": "elevation by 11 - Vuetify"
   },
   "elevation-12": {
     "prefix": "elevation12",
     "body": [
       "elevation-12$0"
     ],
-    "description": "elevation-12 - Vuetify"
+    "description": "elevation by 12 - Vuetify"
   },
   "elevation-13": {
     "prefix": "elevation13",
     "body": [
       "elevation-13$0"
     ],
-    "description": "elevation-13 - Vuetify"
+    "description": "elevation by 13 - Vuetify"
   },
   "elevation-14": {
     "prefix": "elevation14",
     "body": [
       "elevation-14$0"
     ],
-    "description": "elevation-14 - Vuetify"
+    "description": "elevation by 14 - Vuetify"
   },
   "elevation-15": {
     "prefix": "elevation15",
     "body": [
       "elevation-15$0"
     ],
-    "description": "elevation-15 - Vuetify"
+    "description": "elevation by 15 - Vuetify"
   },
   "elevation-16": {
     "prefix": "elevation16",
     "body": [
       "elevation-16$0"
     ],
-    "description": "elevation-16 - Vuetify"
+    "description": "elevation by 16 - Vuetify"
   },
   "elevation-17": {
     "prefix": "elevation17",
     "body": [
       "elevation-17$0"
     ],
-    "description": "elevation-17 - Vuetify"
+    "description": "elevation by 17 - Vuetify"
   },
   "elevation-18": {
     "prefix": "elevation18",
     "body": [
       "elevation-18$0"
     ],
-    "description": "elevation-18 - Vuetify"
+    "description": "elevation by 18 - Vuetify"
   },
   "elevation-19": {
     "prefix": "elevation19",
     "body": [
       "elevation-19$0"
     ],
-    "description": "elevation-19 - Vuetify"
+    "description": "elevation by 19 - Vuetify"
   },
   "elevation-20": {
     "prefix": "elevation20",
     "body": [
       "elevation-20$0"
     ],
-    "description": "elevation-20 - Vuetify"
+    "description": "elevation by 20 - Vuetify"
   },
   "elevation-21": {
     "prefix": "elevation21",
     "body": [
       "elevation-21$0"
     ],
-    "description": "elevation-21 - Vuetify"
+    "description": "elevation by 21 - Vuetify"
   },
   "elevation-22": {
     "prefix": "elevation22",
     "body": [
       "elevation-22$0"
     ],
-    "description": "elevation-22 - Vuetify"
+    "description": "elevation by 22 - Vuetify"
   },
   "elevation-23": {
     "prefix": "elevation23",
     "body": [
       "elevation-23$0"
     ],
-    "description": "elevation-23 - Vuetify"
+    "description": "elevation by 23 - Vuetify"
   },
   "elevation-24": {
     "prefix": "elevation24",
     "body": [
       "elevation-24$0"
     ],
-    "description": "elevation-24 - Vuetify"
+    "description": "elevation by 24 - Vuetify"
   },
   "primary": {
     "prefix": "primary",
     "body": [
       "primary$0"
     ],
-    "description": "primary - Vuetify"
+    "description": "primary color - Vuetify"
   },
   "accent": {
     "prefix": "accent",
     "body": [
       "accent$0"
     ],
-    "description": "accent - Vuetify"
+    "description": "accent color - Vuetify"
   },
   "secondary": {
     "prefix": "secondary",
     "body": [
       "secondary$0"
     ],
-    "description": "secondary - Vuetify"
+    "description": "secondary color - Vuetify"
   },
   "success": {
     "prefix": "success",
     "body": [
       "success$0"
     ],
-    "description": "success - Vuetify"
+    "description": "success color - Vuetify"
   },
   "info": {
     "prefix": "info",
     "body": [
       "info$0"
     ],
-    "description": "info - Vuetify"
+    "description": "info color - Vuetify"
   },
   "error": {
     "prefix": "error",
     "body": [
       "error$0"
     ],
-    "description": "error - Vuetify"
+    "description": "error color - Vuetify"
   },
   "red": {
     "prefix": "red",
     "body": [
       "red$0"
     ],
-    "description": "red - Vuetify"
+    "description": "red color - Vuetify"
   },
   "pink": {
     "prefix": "pink",
     "body": [
       "pink$0"
     ],
-    "description": "pink - Vuetify"
+    "description": "pink color - Vuetify"
   },
   "purple": {
     "prefix": "purple",
     "body": [
       "purple$0"
     ],
-    "description": "purple - Vuetify"
+    "description": "purple color - Vuetify"
   },
   "deep-purple": {
     "prefix": "deepPurple",
     "body": [
       "deep-purple$0"
     ],
-    "description": "deep-purple - Vuetify"
+    "description": "deep-purple color - Vuetify"
   },
   "indigo": {
     "prefix": "indigo",
     "body": [
       "indigo$0"
     ],
-    "description": "indigo - Vuetify"
+    "description": "indigo color - Vuetify"
   },
   "blue": {
     "prefix": "blue",
     "body": [
       "blue$0"
     ],
-    "description": "blue - Vuetify"
+    "description": "blue color - Vuetify"
   },
   "light-blue": {
     "prefix": "lightBlue",
     "body": [
       "light-blue$0"
     ],
-    "description": "light-blue - Vuetify"
+    "description": "light-blue color - Vuetify"
   },
   "cyan": {
     "prefix": "cyan",
     "body": [
       "cyan$0"
     ],
-    "description": "cyan - Vuetify"
+    "description": "cyan color - Vuetify"
   },
   "teal": {
     "prefix": "teal",
     "body": [
       "teal$0"
     ],
-    "description": "teal - Vuetify"
+    "description": "teal color - Vuetify"
   },
   "green": {
     "prefix": "green",
     "body": [
       "green$0"
     ],
-    "description": "green - Vuetify"
+    "description": "green color - Vuetify"
   },
   "light-green": {
     "prefix": "lightGreen",
     "body": [
       "light-green$0"
     ],
-    "description": "light-green - Vuetify"
+    "description": "light-green color - Vuetify"
   },
   "lime": {
     "prefix": "lime",
     "body": [
       "lime$0"
     ],
-    "description": "lime - Vuetify"
+    "description": "lime color - Vuetify"
   },
   "yellow": {
     "prefix": "yellow",
     "body": [
       "yellow$0"
     ],
-    "description": "yellow - Vuetify"
+    "description": "yellow color - Vuetify"
   },
   "amber": {
     "prefix": "amber",
     "body": [
       "amber$0"
     ],
-    "description": "amber - Vuetify"
+    "description": "amber color - Vuetify"
   },
   "orange": {
     "prefix": "orange",
     "body": [
       "orange$0"
     ],
-    "description": "orange - Vuetify"
+    "description": "orange color - Vuetify"
   },
   "deep-orange": {
     "prefix": "deepOrange",
     "body": [
       "deep-orange$0"
     ],
-    "description": "deep-orange - Vuetify"
+    "description": "deep-orange color - Vuetify"
   },
   "brown": {
     "prefix": "brown",
     "body": [
       "brown$0"
     ],
-    "description": "brown - Vuetify"
+    "description": "brown color - Vuetify"
   },
   "blue-grey": {
     "prefix": "blueGrey",
     "body": [
       "blue-grey$0"
     ],
-    "description": "blue-grey - Vuetify"
+    "description": "blue-grey color - Vuetify"
   },
   "grey": {
     "prefix": "grey",
     "body": [
       "grey$0"
     ],
-    "description": "grey - Vuetify"
+    "description": "grey color - Vuetify"
   },
   "black": {
     "prefix": "black",
     "body": [
       "black$0"
     ],
-    "description": "black - Vuetify"
+    "description": "black color - Vuetify"
   },
   "white": {
     "prefix": "white",
     "body": [
       "white$0"
     ],
-    "description": "white - Vuetify"
+    "description": "white color - Vuetify"
   },
   "transparent": {
     "prefix": "transparent",
     "body": [
       "transparent$0"
     ],
-    "description": "transparent - Vuetify"
+    "description": "transparent color - Vuetify"
   },
   "lighten-1": {
     "prefix": "lighten1",
     "body": [
       "lighten-1$0"
     ],
-    "description": "lighten-1 - Vuetify"
+    "description": "color lighten by 1 - Vuetify"
   },
   "lighten-2": {
     "prefix": "lighten2",
     "body": [
       "lighten-2$0"
     ],
-    "description": "lighten-2 - Vuetify"
+    "description": "color lighten by 2 - Vuetify"
   },
   "lighten-3": {
     "prefix": "lighten3",
     "body": [
       "lighten-3$0"
     ],
-    "description": "lighten-3 - Vuetify"
+    "description": "color lighten by 3 - Vuetify"
   },
   "lighten-4": {
     "prefix": "lighten4",
     "body": [
       "lighten-4$0"
     ],
-    "description": "lighten-4 - Vuetify"
+    "description": "color lighten by 4 - Vuetify"
   },
   "lighten-5": {
     "prefix": "lighten5",
     "body": [
       "lighten-5$0"
     ],
-    "description": "lighten-5 - Vuetify"
+    "description": "color lighten by 5 - Vuetify"
   },
   "darken-1": {
     "prefix": "darken1",
     "body": [
       "darken-1$0"
     ],
-    "description": "darken-1 - Vuetify"
+    "description": "color darken by 1 - Vuetify"
   },
   "darken-2": {
     "prefix": "darken2",
     "body": [
       "darken-2$0"
     ],
-    "description": "darken-2 - Vuetify"
+    "description": "color darken by 2 - Vuetify"
   },
   "darken-3": {
     "prefix": "darken3",
     "body": [
       "darken-3$0"
     ],
-    "description": "darken-3 - Vuetify"
+    "description": "color darken by 3 - Vuetify"
   },
   "darken-4": {
     "prefix": "darken4",
     "body": [
       "darken-4$0"
     ],
-    "description": "darken-4 - Vuetify"
+    "description": "color darken by 4 - Vuetify"
   },
   "display-1": {
     "prefix": "display1",
