@@ -3,7 +3,7 @@
   src="https://res.cloudinary.com/confidante/image/upload/v1520961320/logo_ew2tpg.png">
 </p>
 
-<h2 align="center">vuetify-vscode</h2>
+<h1 align="center">vuetify-vscode</h1>
 <p align="center">Vuetify vscode extension</p>
 
 `vuetify-vscode` is the official extension for Vuetifyjs when working in visual studio code. It provides snippets and autocomplete functionality for Vuetifyjs.
@@ -23,15 +23,16 @@ Install through VS Code extensions. Search for `vuetify-vscode`
 
 Can also be installed using
 
-```
+````
 ext install vuetifyjs.vuetify-vscode
-```
+````
 ##  Usage
 ### Snippet
 You don't need usage example if you are familiar with concept of snippets or you looked up the documentation. But here is an example:
 
 Let's suppose you want to insert Button componenet. For that you have to write full component.
-````
+
+````HTML
 <v-btn>buttonText<v-btn>
 ````
 
@@ -48,7 +49,7 @@ Every component in the Vuetify have additional code to write inside it. For exam
 The syntax of template is pretty easy. `v{component}Template` or `v{component}Template{availableTemplate}`
 For example `vBtnToggleTemplate` will give you following code.
 
-```
+```HTML
 <v-btn-toggle mandatory multiple v-model="value">
   <v-btn flat>
     <v-icon>icon</v-icon>

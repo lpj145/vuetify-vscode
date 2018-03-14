@@ -11,7 +11,7 @@
     "vuetify",
     "vuetifyjs",
     "vuetify autocomplete",
-    "vuetipet"
+    "vuetify-vscode"
   ],
   "engines": {
     "vscode": "^1.8.0"
