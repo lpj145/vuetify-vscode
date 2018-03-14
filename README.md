@@ -65,6 +65,28 @@ For example `vBtnToggleTemplate` will give you following code.
   </v-btn>
 </v-btn-toggle>
 ```
+
+and `vBtnToggleTemplateTextIcon` will give you following code.
+````HTML
+<v-btn-toggle multiple mandatory v-model="value">
+  <v-btn flat value="value">
+    <span>text</span>
+    <v-icon>icon</v-icon>
+  </v-btn>
+  <v-btn flat value="value">
+    <span>text</span>
+    <v-icon>icon</v-icon>
+  </v-btn>
+  <v-btn flat value="value">
+    <span>text</span>
+    <v-icon>icon</v-icon>
+  </v-btn>
+  <v-btn flat value="value">
+    <span>text</span>
+    <v-icon>icon</v-icon>
+  </v-btn>
+</v-btn-toggle>
+````
 ## Upcoming features
 - on hover documentation for components and props
 
