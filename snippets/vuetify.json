@@ -7647,7 +7647,7 @@
   "v-resize directive": {
     "prefix": "vResize",
     "body": [
-      "v-resize=\"4{1:onResizeFunction}\"$0"
+      "v-resize=\"${1:onResizeFunction}\"$0"
     ],
     "description": "v-resize directive  - Vuetify"
   },
@@ -7663,7 +7663,7 @@
   "Ripple directive": {
     "prefix": "vRipple",
     "body": [
-      "ripple"
+      "ripple$0"
     ],
     "description": "Ripple directive - Vuetify"
   },
@@ -7700,7 +7700,7 @@
   "v-scroll directive": {
     "prefix": "vScroll",
     "body": [
-      "v-scroll=\"onScrollFunction\""
+      "v-scroll=\"${1:onScrollFunction}\"$0"
     ],
     "description": "v-scroll directive - Vuetify"
   },
@@ -7716,7 +7716,7 @@
   "v-scroll directive for target": {
     "prefix": "vScrollTarget",
     "body": [
-      "v-scroll:#target=\"callback\""
+      "v-scroll:#target=\"${1:callback}\"$0"
     ],
     "description": "v-scroll directive for target - Vuetify"
   },
@@ -11131,21 +11131,21 @@
     "body": [
       "headers$0"
     ],
-    "description": "headers - Vuetify - Vuetify"
+    "description": "headers - Vuetify"
   },
   "attach": {
     "prefix": "attach",
     "body": [
       "attach$0"
     ],
-    "description": "attach - Vuetify - Vuetify"
+    "description": "attach - Vuetify"
   },
   "fullscreen": {
     "prefix": "fullscreen",
     "body": [
       "fullscreen$0"
     ],
-    "description": "fullscreen - Vuetify - Vuetify"
+    "description": "fullscreen - Vuetify"
   },
   "scrollable": {
     "prefix": "scrollable",

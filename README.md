@@ -8,7 +8,7 @@
 
 `vuetify-vscode` is the official extension for Vuetifyjs when working in visual studio code. It provides snippets and autocomplete functionality for Vuetifyjs.
 
-## Changelog for Visual Studio Code
+## Changelog
 <a href="https://github.com/vuetifyjs/vuetify-vscode/blob/master/CHANGELOG.md" target="_blank">Changelog</a>
 
 ## Documentation
@@ -26,8 +26,23 @@ Can also be installed using
 ````
 ext install vuetifyjs.vuetify-vscode
 ````
+
+## Pro Tip
+You can feel it when using vs code, the autocompletions simply don't work in double quotes. 
+
+For example when you are typing inside ani double quote in html like `class=""`, it will never show you the availbale vuetify snippets. But don't worry, there is a hack for this. Simply add to your user setting in following code.
+
+````json
+  "editor.quickSuggestions": {
+    "strings": true,
+  }
+````
+
+Now you 
+
+
 ##  Usage
-### Snippet
+#### Snippet
 You don't need usage example if you are familiar with concept of snippets or you looked up the documentation. But here is an example:
 
 Let's suppose you want to insert Button componenet. For that you have to write full component.
@@ -44,7 +59,7 @@ If you want to see list of all available props of a component. Just write `v{com
 
 If you want to insert a component with all of its props. Just write `v{component-name}WithProps`. This will insert component with all of its props. For example : `vBtnWithProps`, `vAvatarWithProps` etc.
 
-### Templates
+#### Templates
 Every component in the Vuetify have additional code to write inside it. For example the `v-btn-toggle` component have `v-btn` inside it. Thats why `vuetify-vscode` provides templates for them.
 The syntax of template is pretty easy. `v{component}Template` or `v{component}Template{availableTemplate}`
 For example `vBtnToggleTemplate` will give you following code.
