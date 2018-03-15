@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to `vuetify-vscode` will be documented in this file.
 
+## 0.1.3 - 2018-03-15
+## Added
+- Added size props
+
 ## 0.1.2 - 2018-03-15
 ## Added
 - Updated readme for using snippets inside html quotes

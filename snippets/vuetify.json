@@ -7752,6 +7752,31 @@
     ],
     "description": "v-touch directive with events - Vuetify"
   },
+  "xs":{
+    "prefix": "xs",
+    "body": "xs$0",
+    "description": "extra small size - Vuetify"
+  },
+  "sm":{
+    "prefix": "sm",
+    "body": "sm$0",
+    "description": "small size - Vuetify"
+  },
+  "md":{
+    "prefix": "md",
+    "body": "md$0",
+    "description": "medium size - Vuetify"
+  },
+  "lg":{
+    "prefix": "lg",
+    "body": "lg$0",
+    "description": "large size - Vuetify"
+  },
+  "xl":{
+    "prefix": "xl",
+    "body": "xl$0",
+    "description": "extra large size - Vuetify"
+  },
   "align-baseline": {
     "prefix": "alignBaseline",
     "body": [
