@@ -8,9 +8,6 @@
 
 `vuetify-vscode` is the official extension for Vuetifyjs when working in visual studio code. It provides snippets and autocomplete functionality for Vuetifyjs.
 
-## Changelog
-<a href="https://github.com/vuetifyjs/vuetify-vscode/blob/master/CHANGELOG.md" target="_blank">Changelog</a>
-
 ## Documentation
 All available snippets available for Visual Studio Code [click here](https://github.com/vuetifyjs/vuetify-vscode/blob/master/documentation.md)
 
@@ -30,7 +27,7 @@ ext install vuetifyjs.vuetify-vscode
 ## Pro Tip
 You can feel it when using vs code, the autocompletions simply don't work in double quotes. 
 
-For example when you are typing inside ani double quote in html like `class=""`, it will never show you the availbale vuetify snippets. But don't worry, there is a hack for this. Simply add to your user setting in following code.
+For example when you are typing inside any double quote in html like `class=""`, it will never show you the availbale vuetify snippets. But don't worry, there is a hack for this. Simply add to your user setting in following code.
 
 ````json
   "editor.quickSuggestions": {
@@ -38,7 +35,7 @@ For example when you are typing inside ani double quote in html like `class=""`,
   }
 ````
 
-Now you 
+Now you work more time without pressing `ctrl + space`. But if you find it annoying just disable it.
 
 
 ##  Usage
@@ -104,6 +101,9 @@ and `vBtnToggleTemplateTextIcon` will give you following code.
 ````
 ## Upcoming features
 - on hover documentation for components and props
+
+## Changelog
+<a href="https://github.com/vuetifyjs/vuetify-vscode/blob/master/CHANGELOG.md" target="_blank">Changelog</a>
 
 ## Questions
 If you have any questions, ideas or you want to discuss with me. Just raise a issue in `vuetify-vscode` [github repository](https://github.com/vuetifyjs/vuetify-vscode/issues).
