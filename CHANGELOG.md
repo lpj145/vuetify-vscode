@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to `vuetify-vscode` will be documented in this file.
 
-## 0.1.4
+## 0.1.4 - 2018-03-16
 ### Added
 - added missing `vCarouselItem` snippet
 - added missing `,` to `vThemeCreate` snippet
