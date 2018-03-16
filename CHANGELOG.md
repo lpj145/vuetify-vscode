@@ -1,16 +1,20 @@
 # Changelog
 All notable changes to `vuetify-vscode` will be documented in this file.
 
+## 0.1.4
+### Added
+- added missing `vCarouselItem` snippet
+
 ## 0.1.3 - 2018-03-15
-## Added
+### Added
 - Added size props
 
 ## 0.1.2 - 2018-03-15
-## Added
+### Added
 - Updated readme for using snippets inside html quotes
 
 ## 0.1.1 - 2018-03-14
-## Fixed
+### Fixed
 - elevation and color props description changed to detail understanding
 
 ## 0.1.0 - 2018-03-14

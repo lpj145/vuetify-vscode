@@ -9,7 +9,7 @@
 `vuetify-vscode` is the official extension for Vuetifyjs when working in visual studio code. It provides snippets and autocomplete functionality for Vuetifyjs.
 
 ## Documentation
-All available snippets available for Visual Studio Code [click here](https://github.com/vuetifyjs/vuetify-vscode/blob/master/documentation.md)
+For all snippets available for Visual Studio Code [click here](https://github.com/vuetifyjs/vuetify-vscode/blob/master/documentation.md)
 
 
 
@@ -99,6 +99,7 @@ and `vBtnToggleTemplateTextIcon` will give you following code.
   </v-btn>
 </v-btn-toggle>
 ````
+
 ## Upcoming features
 - on hover documentation for components and props
 

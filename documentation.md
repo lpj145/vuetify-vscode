@@ -31,7 +31,7 @@
 - vFlexWithProps -> v-flex with all props
 - vSpacer -> v-spacer component
 - vGridBreakpointObject -> Breakpoing object of Grid system
-### SPACING
+### Spacing
 - vSpacing -> Spacing options
 ### Text alignment
 - vTextAlign -> Text align helper classes
@@ -114,7 +114,7 @@
 - vBtnOutline -> v-btn with outline prop
 - vBtnRound -> v-btn with round prop
 - vBtnBlock -> v-btn with block prop
-### BUTTONS: FLOATING ACTIBUTTONS *-
+### BUTTONS: FLOATING ACTIBUTTONS
 - vSpeedDial -> v-speed-dial component
 - vSpeedDialProps -> v-speed-dial props list
 - vSpeedDialWithProps -> v-speed-dial with all props

@@ -30,7 +30,7 @@
       "  theme: {",
       "    primary: colors.${1|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey|}.${2|base,lighten5,lighten4,lighten3,lighten2,lighten1,darken1,darken2,darken3,darken4,accent1,accent2,accent3,accent4|},",
       "    secondary: colors.${3|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey|}.${4|base,lighten5,lighten4,lighten3,lighten2,lighten1,darken1,darken2,darken3,darken4,accent1,accent2,accent3,accent4|},",
-      "    accent: colors.${5|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey|}.${6|base,lighten5,lighten4,lighten3,lighten2,lighten1,darken1,darken2,darken3,darken4,accent1,accent2,accent3,accent4|}",
+      "    accent: colors.${5|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey|}.${6|base,lighten5,lighten4,lighten3,lighten2,lighten1,darken1,darken2,darken3,darken4,accent1,accent2,accent3,accent4|},",
       "    error: colors.${7|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey|}.${8|base,lighten5,lighten4,lighten3,lighten2,lighten1,darken1,darken2,darken3,darken4,accent1,accent2,accent3,accent4|}",
       "  }",
       "})$0"

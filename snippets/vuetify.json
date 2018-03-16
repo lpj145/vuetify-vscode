@@ -1692,7 +1692,7 @@
     "prefix": "vAvatarIcon",
     "body": [
       "<v-avatar class=\"${1:color=\"${2|red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\">",
-      "  <v-icon dark>${2:icon}</v-icon>",
+      "  <v-icon dark>${3:icon}</v-icon>",
       "</v-avatar>$0"
     ],
     "description": "v-avatar with an icon - Vuetify"
@@ -1701,7 +1701,7 @@
     "prefix": "vAvatarText",
     "body": [
       "<v-avatar class=\"${1:color=\"${2|red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\">",
-      "  <span class=\"${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}--text headline\">${3:text}</span>",
+      "  <span class=\"${3|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}--text headline\">${3:text}</span>",
       "</v-avatar>$0"
     ],
     "description": "v-avatar with text - Vuetify"
@@ -1762,7 +1762,7 @@
       "    ${4:badge_icon}",
       "  </v-icon>",
       "  <v-icon large color=\"${5|primary,accent,secondary,success,info,error,red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\">${6:icon}</v-icon>",
-      "</v-badge>$0      "
+      "</v-badge>$0"
     ],
     "description": "v-badge with overlap prop - Vuetify"
   },
@@ -1802,7 +1802,7 @@
       "</v-btn>$15",
       "</v-bottom-nav>$0"
     ],
-    "description": "v-bottom-nav component"
+    "description": "v-bottom-nav component - Vuetify"
   },
   "v-bottom-nav props": {
     "prefix": "vBottomNavProps",
@@ -2085,16 +2085,30 @@
   "v-btn with flat prop": {
     "prefix": "vBtnFlat",
     "body": [
-      "<v-btn flat ${1|small,large|} ${2:color=\"${3|primary,accent,secondary,success,info,error|}\"} ${4:disabled}>${5:text}</v-btn>$0"
+      "<v-btn flat ${1|small,large|} ${2:color=\"${3|primary,accent,secondary,success,info,error|}\"}>${4:text}</v-btn>$0"
     ],
     "description": "v-btn with flat prop example - Vuetify"
+  },
+  "v-btn disalbed with flat prop": {
+    "prefix": "vBtnFlatDisabled",
+    "body": [
+      "<v-btn flat ${1|small,large|} ${2:color=\"${3|primary,accent,secondary,success,info,error|}\"} ${4:disabled}>${5:text}</v-btn>$0"
+    ],
+    "description": "v-btn disalbed with flat prop example - Vuetify"
   },
   "v-btn with raised prop": {
     "prefix": "vBtnRaised",
     "body": [
-      "<v-btn ${1|small,large|} ${2:color=\"${3|primary,accent,secondary,success,info,error|}\"} ${4:disabled}>${5:text}</v-btn>$0"
+      "<v-btn ${1|small,large|} ${2:color=\"${3|primary,accent,secondary,success,info,error|}\"}>${4:text}</v-btn>$0"
     ],
     "description": "v-btn with raised prop - Vuetify"
+  },
+  "v-btn disabled with raised prop": {
+    "prefix": "vBtnRaisedDisabled",
+    "body": [
+      "<v-btn ${1|small,large|} ${2:color=\"${3|primary,accent,secondary,success,info,error|}\"} ${4:disabled}>${5:text}</v-btn>$0"
+    ],
+    "description": "v-btn disabled with raised prop - Vuetify"
   },
   "v-btn with depressed prop": {
     "prefix": "vBtnDepressed",
@@ -2102,6 +2116,13 @@
       "<v-btn depressed ${1|small,large|} ${2:color=\"${3|primary,accent,secondary,success,info,error|}\"} ${4:disabled}>${5:text}</v-btn>$0"
     ],
     "description": "v-btn with depressed prop - Vuetify"
+  },
+  "v-btn disabled with depressed prop": {
+    "prefix": "vBtnDepressedDisalbed",
+    "body": [
+      "<v-btn depressed ${1|small,large|} ${2:color=\"${3|primary,accent,secondary,success,info,error|}\"}>${4:text}</v-btn>$0"
+    ],
+    "description": "v-btn disabled with depressed prop - Vuetify"
   },
   "v-select as button with dropdown varient": {
     "prefix": "vBtnDropdown",
@@ -2200,7 +2221,7 @@
   "v-btn as floating": {
     "prefix": "vBtnFloating",
     "body": [
-      "<v-btn fab ${1|dark,ligh|} ${2|small,large|} ${3:color=\"${4|primary,accent,secondary,success,info,error,red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}\"}>",
+      "<v-btn fab ${1|dark,light|} ${2|small,large|} ${3:color=\"${4|primary,accent,secondary,success,info,error,red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}\"}>",
       "  <v-icon dark>${5:icon}</v-icon>",
       "</v-btn>$0"
     ],
@@ -2242,21 +2263,21 @@
   "v-btn with outline prop": {
     "prefix": "vBtnOutline",
     "body": [
-      "   <v-btn outline ${1:color=\"${2|primary,accent,secondary,success,info,error,red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}\"} dark>${3:text}</v-btn>$0"
+      "<v-btn outline ${1:color=\"${2|primary,accent,secondary,success,info,error,red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}\"} dark>${3:text}</v-btn>$0"
     ],
     "description": "v-btn with outline prop - Vuetify"
   },
   "v-btn with round prop": {
     "prefix": "vBtnRound",
     "body": [
-      "   <v-btn round ${1:color=\"${2|primary,accent,secondary,success,info,error,red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}\"} dark>${3:text}</v-btn>$0"
+      "<v-btn round ${1:color=\"${2|primary,accent,secondary,success,info,error,red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}\"} dark>${3:text}</v-btn>$0"
     ],
     "description": "v-btn with round prop - Vuetify"
   },
   "v-btn with block prop": {
     "prefix": "vBtnBlock",
     "body": [
-      " <v-btn block ${1:color=\"${2|primary,accent,secondary,success,info,error,red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}\"} dark>${3:text}</v-btn>$0"
+      "<v-btn block ${1:color=\"${2|primary,accent,secondary,success,info,error,red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}\"} dark>${3:text}</v-btn>$0"
     ],
     "description": "v-btn with block prop - Vuetify"
   },
@@ -2266,7 +2287,7 @@
       "<v-speed-dial",
       "  ${1:bottom} ${2:top}",
       "  ${3:left} ${4:right}",
-      "  ${5:direction=\"${6|top,bottom|}\"",
+      "  ${5:direction=\"${6|top,bottom|}\"}",
       "  ${7:open-on-hover}",
       "  ${8:transition=\"${9|fade-transition,slide-x-transition,slide-x-reverse-transition,slide-y-transition,scale-transition,slide-y-reverse-transition|}\"}",
       ">",
@@ -2349,7 +2370,7 @@
       "  @click.native.stop=\"${6:click}\"",
       ">",
       "  <v-icon>${7:icon}</v-icon>",
-      "</v-btn>"
+      "</v-btn>$0"
     ],
     "description": "v-btn as floating action button - Vuetify"
   },
@@ -2367,8 +2388,8 @@
       "    v-show=\"${6:show}\"",
       "  >",
       "    <v-icon>${7:icon}</v-icon>",
-      "  </v-btn>",
-      "</v-fab-transition>"
+      "  </v-btn>$8",
+      "</v-fab-transition>$0"
     ],
     "description": "v-btn as floating action button with display animation - Vuetify"
   },
@@ -2538,9 +2559,8 @@
       "  ${2:height=\"${3:auto}\"}",
       "  ${4:src=\"${5:src}\"}",
       ">",
-      "",
-      "</v-card-media>$0",
-      ""
+      "\t$6",
+      "</v-card-media>$0"
     ],
     "description": "v-card-media component - Vuetify"
   },
@@ -2559,9 +2579,8 @@
       "  ${2:height=\"${3:auto}\"}",
       "  ${4:src=\"${5:src}\"}",
       ">",
-      "",
-      "</v-card-media>$0",
-      ""
+      "\t$6",
+      "</v-card-media>$0"
     ],
     "description": "v-card-media with all props list - Vuetify"
   },
@@ -2588,7 +2607,7 @@
       "  $1",
       "</v-card-actions>$0"
     ],
-    "description": ""
+    "description": "v-card-actions component - Vuetify"
   },
   "v-card-text component": {
     "prefix": "vCardText",
@@ -2597,7 +2616,7 @@
       "  $1",
       "</v-card-text>$0"
     ],
-    "description": ""
+    "description": "v-card-text component - Vuetify"
   },
   "v-carousel component": {
     "prefix": "vCarousel",
@@ -2644,9 +2663,18 @@
       "    transition=\"${3:transition}\"",
       "    reverse-transition=\"${4:reverseTransition}\"",
       "  ></v-carousel-item>",
-      "</v-carousel>"
+      "</v-carousel>$0"
     ],
     "description": "v-carousel simple template - Vuetify"
+  },
+  "v-carousel-item component": {
+    "prefix": "vCarouselItem",
+    "body": [
+      "<v-carousel-item",
+      "  ${1:src=\"${2:src}\"}",
+      "></v-carousel-item>$0"
+    ],
+    "description": "v-carousel-item component - Vuetify"
   },
   "v-carousel-item props": {
     "prefix": "vCarouselItemProps",
@@ -2987,7 +3015,7 @@
       "  ${5:lazy}",
       "  ${6:persistent}",
       "  transition=\"${7|fade-transition,slide-x-transition,slide-x-reverse-transition,slide-y-transition,scale-transition,slide-y-reverse-transition|}\"",
-      "> ${8:text}$9",
+      "> ${8:text}",
       "</v-edit-dialog>$0"
     ],
     "description": "v-edit-dialog with all props - Vuetify"
@@ -2997,7 +3025,7 @@
     "body": [
       "<template slot=\"headers\" slot-scope=\"props\">",
       "  ${1:<tr>",
-      "    <th>",
+      "    <th>$2",
       "      <v-checkbox",
       "        primary",
       "        hide-details",
@@ -3016,7 +3044,7 @@
       "        {{ header.text \\}\\}",
       "    </th>",
       "  </tr>}",
-      "</template>"
+      "</template>$0"
     ],
     "description": "v-data-table headers slot - Vuetify"
   },
@@ -3039,7 +3067,7 @@
       "    <td class=\"text-xs-right\">{{ props.item.protein \\}\\}</td>",
       "    <td class=\"text-xs-right\">{{ props.item.iron \\}\\}</td>}",
       "  </tr>}",
-      "</template>"
+      "</template>$0"
     ],
     "description": "v-data-table items slot - Vuetify"
   },
@@ -3104,7 +3132,7 @@
     "body": [
       "<v-alert slot=\"no-results\" :value=\"true\" color=\"error\" icon=\"warning\">",
       "  ${1:Your search for \"{{ search \\}\\}\" found no results.}",
-      "</v-alert>"
+      "</v-alert>$0"
     ],
     "description": "v-data-table no-results slot - Vuetify"
   },
@@ -3113,7 +3141,7 @@
     "body": [
       "<template slot=\"pageText\" slot-scope=\"props\">",
       "  ${1:Lines {{ props.${2:pageStart} \\}\\} - {{ props.${3:pageStop} \\}\\} from {{ props.${4:itemsLength} \\}\\}}",
-      "</template>"
+      "</template>$0"
     ],
     "description": "v-data-table with page-text slot - Vuetify"
   },
@@ -3541,27 +3569,27 @@
   "v-data-table template with paginate and sort server-side": {
     "prefix": "vDataTableTemplatePaginateSortServerSide",
     "body": [
-      "  <div>",
-      "    <!-- I haven't made any change to this template. This is only copy and paste from doc site. -->",
-      "    <v-data-table",
-      "      :headers=\"headers\"",
-      "      :items=\"items\"",
-      "      :search=\"search\"",
-      "      :pagination.sync=\"pagination\"",
-      "      :total-items=\"totalItems\"",
-      "      :loading=\"loading\"",
-      "      class=\"elevation-1\"",
-      "    >",
-      "      <template slot=\"items\" slot-scope=\"props\">",
-      "        <td>{{ props.item.name }}</td>",
-      "        <td class=\"text-xs-right\">{{ props.item.calories }}</td>",
-      "        <td class=\"text-xs-right\">{{ props.item.fat }}</td>",
-      "        <td class=\"text-xs-right\">{{ props.item.carbs }}</td>",
-      "        <td class=\"text-xs-right\">{{ props.item.protein }}</td>",
-      "        <td class=\"text-xs-right\">{{ props.item.iron }}</td>",
-      "      </template>",
-      "    </v-data-table>",
-      "  </div>",
+      "<div>",
+      "  <!-- I haven't made any change to this template. This is only copy and paste from doc site. -->",
+      "  <v-data-table",
+      "    :headers=\"headers\"",
+      "    :items=\"items\"",
+      "    :search=\"search\"",
+      "    :pagination.sync=\"pagination\"",
+      "    :total-items=\"totalItems\"",
+      "    :loading=\"loading\"",
+      "    class=\"elevation-1\"",
+      "  >",
+      "    <template slot=\"items\" slot-scope=\"props\">",
+      "      <td>{{ props.item.name }}</td>",
+      "      <td class=\"text-xs-right\">{{ props.item.calories }}</td>",
+      "      <td class=\"text-xs-right\">{{ props.item.fat }}</td>",
+      "      <td class=\"text-xs-right\">{{ props.item.carbs }}</td>",
+      "      <td class=\"text-xs-right\">{{ props.item.protein }}</td>",
+      "      <td class=\"text-xs-right\">{{ props.item.iron }}</td>",
+      "    </template>",
+      "  </v-data-table>",
+      "</div>",
       "",
       "<script>",
       "  export default {",
@@ -3668,68 +3696,68 @@
   "v-data-table template with CRUD actions": {
     "prefix": "vDataTableTemplateCRUD",
     "body": [
-      "  <div>",
-      "    <!-- I haven't made any change to this template. This is only copy and paste from doc site. -->",
-      "    <v-dialog v-model=\"dialog\" max-width=\"500px\">",
-      "      <v-btn color=\"primary\" dark slot=\"activator\" class=\"mb-2\">New Item</v-btn>",
-      "      <v-card>",
-      "        <v-card-title>",
-      "          <span class=\"headline\">{{ formTitle }}</span>",
-      "        </v-card-title>",
-      "        <v-card-text>",
-      "          <v-container grid-list-md>",
-      "            <v-layout wrap>",
-      "              <v-flex xs12 sm6 md4>",
-      "                <v-text-field label=\"Dessert name\" v-model=\"editedItem.name\"></v-text-field>",
-      "              </v-flex>",
-      "              <v-flex xs12 sm6 md4>",
-      "                <v-text-field label=\"Calories\" v-model=\"editedItem.calories\"></v-text-field>",
-      "              </v-flex>",
-      "              <v-flex xs12 sm6 md4>",
-      "                <v-text-field label=\"Fat (g)\" v-model=\"editedItem.fat\"></v-text-field>",
-      "              </v-flex>",
-      "              <v-flex xs12 sm6 md4>",
-      "                <v-text-field label=\"Carbs (g)\" v-model=\"editedItem.carbs\"></v-text-field>",
-      "              </v-flex>",
-      "              <v-flex xs12 sm6 md4>",
-      "                <v-text-field label=\"Protein (g)\" v-model=\"editedItem.protein\"></v-text-field>",
-      "              </v-flex>",
-      "            </v-layout>",
-      "          </v-container>",
-      "        </v-card-text>",
-      "        <v-card-actions>",
-      "          <v-spacer></v-spacer>",
-      "          <v-btn color=\"blue darken-1\" flat @click.native=\"close\">Cancel</v-btn>",
-      "          <v-btn color=\"blue darken-1\" flat @click.native=\"save\">Save</v-btn>",
-      "        </v-card-actions>",
-      "      </v-card>",
-      "    </v-dialog>",
-      "    <v-data-table",
-      "      :headers=\"headers\"",
-      "      :items=\"items\"",
-      "      hide-actions",
-      "      class=\"elevation-1\"",
-      "    >",
-      "      <template slot=\"items\" slot-scope=\"props\">",
-      "        <td>{{ props.item.name }}</td>",
-      "        <td class=\"text-xs-right\">{{ props.item.calories }}</td>",
-      "        <td class=\"text-xs-right\">{{ props.item.fat }}</td>",
-      "        <td class=\"text-xs-right\">{{ props.item.carbs }}</td>",
-      "        <td class=\"text-xs-right\">{{ props.item.protein }}</td>",
-      "        <td class=\"justify-center layout px-0\">",
-      "          <v-btn icon class=\"mx-0\" @click=\"editItem(props.item)\">",
-      "            <v-icon color=\"teal\">edit</v-icon>",
-      "          </v-btn>",
-      "          <v-btn icon class=\"mx-0\" @click=\"deleteItem(props.item)\">",
-      "            <v-icon color=\"pink\">delete</v-icon>",
-      "          </v-btn>",
-      "        </td>",
-      "      </template>",
-      "      <template slot=\"no-data\">",
-      "        <v-btn color=\"primary\" @click=\"initialize\">Reset</v-btn>",
-      "      </template>",
-      "    </v-data-table>",
-      "  </div>",
+      "<div>",
+      "  <!-- I haven't made any change to this template. This is only copy and paste from doc site. -->",
+      "  <v-dialog v-model=\"dialog\" max-width=\"500px\">",
+      "    <v-btn color=\"primary\" dark slot=\"activator\" class=\"mb-2\">New Item</v-btn>",
+      "    <v-card>",
+      "      <v-card-title>",
+      "        <span class=\"headline\">{{ formTitle }}</span>",
+      "      </v-card-title>",
+      "      <v-card-text>",
+      "        <v-container grid-list-md>",
+      "          <v-layout wrap>",
+      "            <v-flex xs12 sm6 md4>",
+      "              <v-text-field label=\"Dessert name\" v-model=\"editedItem.name\"></v-text-field>",
+      "            </v-flex>",
+      "            <v-flex xs12 sm6 md4>",
+      "              <v-text-field label=\"Calories\" v-model=\"editedItem.calories\"></v-text-field>",
+      "            </v-flex>",
+      "            <v-flex xs12 sm6 md4>",
+      "              <v-text-field label=\"Fat (g)\" v-model=\"editedItem.fat\"></v-text-field>",
+      "            </v-flex>",
+      "            <v-flex xs12 sm6 md4>",
+      "              <v-text-field label=\"Carbs (g)\" v-model=\"editedItem.carbs\"></v-text-field>",
+      "            </v-flex>",
+      "            <v-flex xs12 sm6 md4>",
+      "              <v-text-field label=\"Protein (g)\" v-model=\"editedItem.protein\"></v-text-field>",
+      "            </v-flex>",
+      "          </v-layout>",
+      "        </v-container>",
+      "      </v-card-text>",
+      "      <v-card-actions>",
+      "        <v-spacer></v-spacer>",
+      "        <v-btn color=\"blue darken-1\" flat @click.native=\"close\">Cancel</v-btn>",
+      "        <v-btn color=\"blue darken-1\" flat @click.native=\"save\">Save</v-btn>",
+      "      </v-card-actions>",
+      "    </v-card>",
+      "  </v-dialog>",
+      "  <v-data-table",
+      "    :headers=\"headers\"",
+      "    :items=\"items\"",
+      "    hide-actions",
+      "    class=\"elevation-1\"",
+      "  >",
+      "    <template slot=\"items\" slot-scope=\"props\">",
+      "      <td>{{ props.item.name }}</td>",
+      "      <td class=\"text-xs-right\">{{ props.item.calories }}</td>",
+      "      <td class=\"text-xs-right\">{{ props.item.fat }}</td>",
+      "      <td class=\"text-xs-right\">{{ props.item.carbs }}</td>",
+      "      <td class=\"text-xs-right\">{{ props.item.protein }}</td>",
+      "      <td class=\"justify-center layout px-0\">",
+      "        <v-btn icon class=\"mx-0\" @click=\"editItem(props.item)\">",
+      "          <v-icon color=\"teal\">edit</v-icon>",
+      "        </v-btn>",
+      "        <v-btn icon class=\"mx-0\" @click=\"deleteItem(props.item)\">",
+      "          <v-icon color=\"pink\">delete</v-icon>",
+      "        </v-btn>",
+      "      </td>",
+      "    </template>",
+      "    <template slot=\"no-data\">",
+      "      <v-btn color=\"primary\" @click=\"initialize\">Reset</v-btn>",
+      "    </template>",
+      "  </v-data-table>",
+      "</div>",
       "",
       "<script>",
       "  export default {",
@@ -4336,7 +4364,7 @@
     "prefix": "vFormTemplateVuelidate",
     "body": [
       "<template>",
-      "  <form>",
+      "  <form>$0",
       "    <v-text-field",
       "      label=\"Name\"",
       "      v-model=\"name\"",
@@ -4445,7 +4473,7 @@
     "prefix": "vFormTemplateVeeValidate",
     "body": [
       "<template>",
-      "  <form>",
+      "  <form>$1",
       "    <v-text-field",
       "      v-model=\"name\"",
       "      label=\"Name\"",
@@ -4536,7 +4564,7 @@
       "  }",
       "};",
       "</script>",
-      "-->"
+      "-->$0"
     ],
     "description": "v-from template with Vee-validate - Vuetify"
   },
@@ -4544,7 +4572,7 @@
     "prefix": "vFormTemplateValidation",
     "body": [
       "<template>",
-      "  <v-form v-model=\"valid\" ref=\"form\" lazy-validation>",
+      "  <v-form v-model=\"valid\" ref=\"form\" lazy-validation>$1",
       "    <v-text-field",
       "      label=\"Name\"",
       "      v-model=\"name\"",
@@ -4616,7 +4644,7 @@
       "  }",
       "};",
       "</script>",
-      "-->"
+      "-->$0"
     ],
     "description": "v-from template for Validation with submit & clear - Vuetify"
   },
@@ -4778,7 +4806,7 @@
       "  ${5:autocomplete}",
       "></v-select>$0"
     ],
-    "description": ""
+    "description": "v-select with custom filter and autocomplete - Vuetify"
   },
   "v-select function custom filter": {
     "prefix": "vSelectFunctionCustomFilter",
@@ -4887,7 +4915,7 @@
       "  ${1:color=\"${2|primary,accent,secondary,success,info,error,red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\"}",
       "  ${3:dark} ${4:light}",
       "  ${5:disabled}",
-      "  ${6:label=\"${7:lable}\"}",
+      "  ${6:label=\"${7:label}\"}",
       "  ${8:ripple=\"${9:true}\"}",
       "  ${10:value=\"${11:value}\"}",
       "  ${12:change=\"${13:onChange}\"}",
@@ -4908,7 +4936,7 @@
   "v-checkbox component": {
     "prefix": "vCheckbox",
     "body": [
-      "<v-checkbox label=\"${1:lable}\" v-model=\"${2:value}\" value=\"${3:value}\"></v-checkbox>$0"
+      "<v-checkbox label=\"${1:label}\" v-model=\"${2:value}\" value=\"${3:value}\"></v-checkbox>$0"
     ],
     "description": "v-checkbox component - Vuetify"
   },
@@ -4996,7 +5024,7 @@
   "v-switch component": {
     "prefix": "vSwitch",
     "body": [
-      "<v-switch label=\"${1:lable}\" v-model=\"${2:value}\"></v-switch>$0"
+      "<v-switch label=\"${1:label}\" v-model=\"${2:value}\"></v-switch>$0"
     ],
     "description": "v-switch component - Vuetify"
   },
@@ -5179,7 +5207,7 @@
       "  single-line",
       "></v-text-field>$0"
     ],
-    "description": "v-text-field"
+    "description": "v-text-field normal with input text - Vuetify"
   },
   "v-text-field error": {
     "prefix": "vTextFieldError",
@@ -5275,7 +5303,7 @@
     "prefix": "vTextFieldPrefix",
     "body": [
       "<v-text-field",
-      "  label=\"${1:lable}\"",
+      "  label=\"${1:label}\"",
       "  value=\"${2:value}\"",
       "  prefix=\"${3:prefix}\"",
       "></v-text-field>$0"
@@ -5286,7 +5314,7 @@
     "prefix": "vTextFieldSuffix",
     "body": [
       "<v-text-field",
-      "  label=\"${1:lable}\"",
+      "  label=\"${1:label}\"",
       "  value=\"${2:value}\"",
       "  suffix=\"${3:suffix}\"",
       "></v-text-field>$0"
@@ -5297,7 +5325,7 @@
     "prefix": "vTextFieldTextarea",
     "body": [
       "<v-text-field",
-      "  label=\"${1:lable}\"",
+      "  label=\"${1:label}\"",
       "  name=\"${2:name}\"",
       "  textarea",
       "></v-text-field>$0"
@@ -5307,28 +5335,28 @@
   "v-text-field with box prop": {
     "prefix": "vTextFieldBox",
     "body": [
-      "<v-text-field box label=\"${1:lable}\" v-model=\"${2:value}\"></v-text-field>$0"
+      "<v-text-field box label=\"${1:label}\" v-model=\"${2:value}\"></v-text-field>$0"
     ],
     "description": "v-text-field with box prop - Vuetify"
   },
   "v-text-field with solo prop": {
     "prefix": "vTextFieldSolo",
     "body": [
-      "<v-text-field solo label=\"${1:lable}\" v-model=\"${2:value}\"></v-text-field>$0"
+      "<v-text-field solo label=\"${1:label}\" v-model=\"${2:value}\"></v-text-field>$0"
     ],
     "description": "v-text-field with solo prop - Vuetify"
   },
   "v-text-field with solo-inverted prop": {
     "prefix": "vTextFieldSoloInverted",
     "body": [
-      "<v-text-field solo-inverted label=\"${1:lable}\" v-model=\"${2:value}\"></v-text-field>$0"
+      "<v-text-field solo-inverted label=\"${1:label}\" v-model=\"${2:value}\"></v-text-field>$0"
     ],
     "description": "v-text-field with solo-inverted prop - Vuetify"
   },
   "v-text-field with mask prop": {
     "prefix": "vTextFieldMask",
     "body": [
-      "<v-text-field box label=\"${1:lable}\" mask=\"${2:mask}\" v-model=\"${3:value}\"></v-text-field>$0"
+      "<v-text-field box label=\"${1:label}\" mask=\"${2:mask}\" v-model=\"${3:value}\"></v-text-field>$0"
     ],
     "description": "v-text-field with mask prop - Vuetify"
   },
@@ -5816,7 +5844,7 @@
       "  $1",
       "</v-navigation-drawer>$0"
     ],
-    "description": "v-navigation-drawer component with permanent prop"
+    "description": "v-navigation-drawer component with permanent prop - Vuetify"
   },
   "v-navigation-drawer component with temporary prop": {
     "prefix": "vNavigationDrawerTemporary",
@@ -5825,7 +5853,7 @@
       "  $1",
       "</v-navigation-drawer>$0"
     ],
-    "description": "v-navigation-drawer component with temporary prop"
+    "description": "v-navigation-drawer component with temporary prop - Vuetify"
   },
   "v-navigation-drawer props": {
     "prefix": "vNavigationDrawerProps",
@@ -5996,7 +6024,7 @@
   "v-navigation-drawer template with temporary drawer": {
     "prefix": "vNavigationDrawerTemplateTemporary",
     "body": [
-      "<v-navigation-drawer ",
+      "<v-navigation-drawer",
       "  temporary",
       "  v-model=\"${1:value}\"",
       "  absolute",
@@ -6781,7 +6809,7 @@
     "body": [
       "<v-progress-linear value=\"${1:75}\" height=\"${2:15}\" color=\"${3|primary,accent,secondary,success,info,error|}\"></v-progress-linear>$0"
     ],
-    "description": "v-progress-linear"
+    "description": "v-progress-linear with custom height and contextual colors - Vuetify"
   },
   "v-progress-linear with custom colors": {
     "prefix": "vProgressLinearColors",
@@ -6904,7 +6932,7 @@
       "  <v-btn flat color=\"${3|primary,accent,secondary,success,info,error,red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\" @click.native=\"$1 = false\">Close</v-btn>",
       "</v-snackbar>$0"
     ],
-    "description": "v-snackbar"
+    "description": "v-snackbar component - Vuetify"
   },
   "v-snackbar props": {
     "prefix": "vSnackbarProps",
@@ -7094,7 +7122,7 @@
     ],
     "description": "v-stepper template - Vuetify"
   },
-  "v-stepper": {
+  "v-stepper template with optional steps": {
     "prefix": "vStepperTemplateOptional",
     "body": [
       "<v-stepper value=\"1\">",
@@ -7110,11 +7138,10 @@
       "  </v-stepper-header>",
       "  <v-stepper-items>",
       "    <v-stepper-content step=\"1\">",
-      "      ",
       "  </v-stepper-items>",
       "</v-stepper>$0"
     ],
-    "description": "v-stepper"
+    "description": "v-stepper template with optional steps - Vuetify"
   },
   "v-subheader component": {
     "prefix": "vSubheader",
@@ -7562,7 +7589,7 @@
     "body": [
       "<v-system-bar color=\"${1|primary,accent,secondary,success,info,error,red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\">",
       "  $2",
-      "</v-system-bar>"
+      "</v-system-bar>$0"
     ],
     "description": "v-system-bar component - Vuetify"
   },
@@ -7571,7 +7598,7 @@
     "body": [
       "<v-system-bar status color=\"${1|primary,accent,secondary,success,info,error,red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\">",
       "  $2",
-      "</v-system-bar>"
+      "</v-system-bar>$0"
     ],
     "description": "v-system-bar with light status bar - Vuetify"
   },
@@ -7580,7 +7607,7 @@
     "body": [
       "<v-system-bar status color=\"${1|primary,accent,secondary,success,info,error,red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\" lights-out>",
       "  $2",
-      "</v-system-bar>"
+      "</v-system-bar>$0"
     ],
     "description": "v-system-bar with lights out bar - Vuetify"
   },
@@ -11672,7 +11699,7 @@
   "slider-color": {
     "prefix": "sliderColor",
     "body": [
-      "slider-color=\"accent${1|primary,accent,secondary,success,info,error,red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\"$0"
+      "slider-color=\"${1|primary,accent,secondary,success,info,error,red,red lighten-5,red lighten-4,red lighten-3,red lighten-2,red lighten-1,red darken-1,red darken-2,red darken-3,red darken-4,red accent-1,red accent-2,red accent-3,red accent-4,pink,pink lighten-5,pink lighten-4,pink lighten-3,pink lighten-2,pink lighten-1,pink darken-1,pink darken-2,pink darken-3,pink darken-4,pink accent-1,pink accent-2,pink accent-3,pink accent-4,purple,purple lighten-5,purple lighten-4,purple lighten-3,purple lighten-2,purple lighten-1,purple darken-1,purple darken-2,purple darken-3,purple darken-4,purple accent-1,purple accent-2,purple accent-3,purple accent-4,deep-purple,deep-purple lighten-5,deep-purple lighten-4,deep-purple lighten-3,deep-purple lighten-2,deep-purple lighten-1,deep-purple darken-1,deep-purple darken-2,deep-purple darken-3,deep-purple darken-4,deep-purple accent-1,deep-purple accent-2,deep-purple accent-3,deep-purple accent-4,indigo,indigo lighten-5,indigo lighten-4,indigo lighten-3,indigo lighten-2,indigo lighten-1,indigo darken-1,indigo darken-2,indigo darken-3,indigo darken-4,indigo accent-1,indigo accent-2,indigo accent-3,indigo accent-4,blue,blue lighten-5,blue lighten-4,blue lighten-3,blue lighten-2,blue lighten-1,blue darken-1,blue darken-2,blue darken-3,blue darken-4,blue accent-1,blue accent-2,blue accent-3,blue accent-4,light-blue,light-blue lighten-5,light-blue lighten-4,light-blue lighten-3,light-blue lighten-2,light-blue lighten-1,light-blue darken-1,light-blue darken-2,light-blue darken-3,light-blue darken-4,light-blue accent-1,light-blue accent-2,light-blue accent-3,light-blue accent-4,cyan,cyan lighten-5,cyan lighten-4,cyan lighten-3,cyan lighten-2,cyan lighten-1,cyan darken-1,cyan darken-2,cyan darken-3,cyan darken-4,cyan accent-1,cyan accent-2,cyan accent-3,cyan accent-4,teal,teal lighten-5,teal lighten-4,teal lighten-3,teal lighten-2,teal lighten-1,teal darken-1,teal darken-2,teal darken-3,teal darken-4,teal accent-1,teal accent-2,teal accent-3,teal accent-4,green,green lighten-5,green lighten-4,green lighten-3,green lighten-2,green lighten-1,green darken-1,green darken-2,green darken-3,green darken-4,green accent-1,green accent-2,green accent-3,green accent-4,light-green,light-green lighten-5,light-green lighten-4,light-green lighten-3,light-green lighten-2,light-green lighten-1,light-green darken-1,light-green darken-2,light-green darken-3,light-green darken-4,light-green accent-1,light-green accent-2,light-green accent-3,light-green accent-4,lime,lime lighten-5,lime lighten-4,lime lighten-3,lime lighten-2,lime lighten-1,lime darken-1,lime darken-2,lime darken-3,lime darken-4,lime accent-1,lime accent-2,lime accent-3,lime accent-4,yellow,yellow lighten-5,yellow lighten-4,yellow lighten-3,yellow lighten-2,yellow lighten-1,yellow darken-1,yellow darken-2,yellow darken-3,yellow darken-4,yellow accent-1,yellow accent-2,yellow accent-3,yellow accent-4,amber,amber lighten-5,amber lighten-4,amber lighten-3,amber lighten-2,amber lighten-1,amber darken-1,amber darken-2,amber darken-3,amber darken-4,amber accent-1,amber accent-2,amber accent-3,amber accent-4,orange,orange lighten-5,orange lighten-4,orange lighten-3,orange lighten-2,orange lighten-1,orange darken-1,orange darken-2,orange darken-3,orange darken-4,orange accent-1,orange accent-2,orange accent-3,orange accent-4,deep-orange,deep-orange lighten-5,deep-orange lighten-4,deep-orange lighten-3,deep-orange lighten-2,deep-orange lighten-1,deep-orange darken-1,deep-orange darken-2,deep-orange darken-3,deep-orange darken-4,deep-orange accent-1,deep-orange accent-2,deep-orange accent-3,deep-orange accent-4,brown,brown lighten-5,brown lighten-4,brown lighten-3,brown lighten-2,brown lighten-1,brown darken-1,brown darken-2,brown darken-3,brown darken-4,blue-grey,blue-grey lighten-5,blue-grey lighten-4,blue-grey lighten-3,blue-grey lighten-2,blue-grey lighten-1,blue-grey darken-1,blue-grey darken-2,blue-grey darken-3,blue-grey darken-4,grey,grey lighten-5,grey lighten-4,grey lighten-3,grey lighten-2,grey lighten-1,grey darken-1,grey darken-2,grey darken-3,grey darken-4,black,white,transparent|}\"$0"
     ],
     "description": "slider-color - Vuetify"
   },
