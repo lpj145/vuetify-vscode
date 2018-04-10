@@ -87,5 +87,21 @@
       "]$0"
     ],
     "description": "v-form name rule - Vuetify"
+  },
+  "Breakpoing object of Grid system": {
+    "prefix": "vGridBreakpointObject",
+    "body": [
+      "breakpointObject() {",
+      "  // Use in computed property",
+      "  switch (this.$vuetify.breakpoint.name) {",
+      "    case 'xs': return '220px'",
+      "    case 'sm': return '400px'",
+      "    case 'md': return '500px'",
+      "    case 'lg': return '600px'",
+      "    case 'xl': return '800px'",
+      "  }",
+      "}"
+    ],
+    "description": "Breakpoing object of Grid system - Vuetify"
   }
 }

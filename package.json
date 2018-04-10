@@ -14,7 +14,7 @@
     "vuetify-vscode"
   ],
   "engines": {
-    "vscode": "^1.8.0"
+    "vscode": "^1.5.0"
   },
   "repository": {
     "url": "https://github.com/vuetifyjs/vuetify-vscode"
@@ -29,6 +29,14 @@
   ],
   "contributes": {
     "snippets": [
+      {
+        "language": "vue",
+        "path": "./snippets/vuetify.json"
+      },
+      {
+        "language": "vue",
+        "path": "./snippets/javascript.json"
+      },
       {
         "language": "javascript",
         "path": "./snippets/javascript.json"
@@ -47,14 +55,6 @@
       },
       {
         "language": "vue-html",
-        "path": "./snippets/vuetify.json"
-      },
-      {
-        "language": "vue",
-        "path": "./snippets/javascript.json"
-      },
-      {
-        "language": "vue",
         "path": "./snippets/vuetify.json"
       },
       {
