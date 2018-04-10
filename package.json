@@ -1,66 +1,66 @@
 {
-  "name": "vuetify-vscode",
-  "displayName": "vuetify-vscode",
-  "author": "Vuetifyjs",
-  "icon": "img/logo.png",
-  "description": "Vuetify vscode extension",
-  "license": "MIT",
-  "version": "0.1.4",
-  "publisher": "vuetifyjs",
-  "keywords": [
-    "vuetify",
-    "vuetifyjs",
-    "vuetify autocomplete",
-    "vuetify-vscode"
-  ],
-  "engines": {
-    "vscode": "^1.5.0"
-  },
-  "repository": {
-    "url": "https://github.com/vuetifyjs/vuetify-vscode"
-  },
-  "homepage": "https://github.com/vuetifyjs/vuetify-vscode",
-  "bugs": {
-    "url": "https://github.com/vuetifyjs/vuetify-vscode/issues"
-  },
-  "categories": [
-    "Snippets",
-    "Other"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "vue",
-        "path": "./snippets/vuetify.json"
-      },
-      {
-        "language": "vue",
-        "path": "./snippets/javascript.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/javascript.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/javascript.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/javascript.json"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/vuetify.json"
-      },
-      {
-        "language": "vue-html",
-        "path": "./snippets/vuetify.json"
-      },
-      {
-        "language": "jade",
-        "path": "./snippets/vuetify.json"
-      }
-    ]
-  }
+    "name": "vuetify-vscode",
+    "displayName": "vuetify-vscode",
+    "author": "Vuetifyjs",
+    "icon": "img/logo.png",
+    "description": "Vuetify vscode extension",
+    "license": "MIT",
+    "version": "0.1.5",
+    "publisher": "vuetifyjs",
+    "keywords": [
+        "vuetify",
+        "vuetifyjs",
+        "vuetify autocomplete",
+        "vuetify-vscode"
+    ],
+    "engines": {
+        "vscode": "^1.5.0"
+    },
+    "repository": {
+        "url": "https://github.com/vuetifyjs/vuetify-vscode"
+    },
+    "homepage": "https://github.com/vuetifyjs/vuetify-vscode",
+    "bugs": {
+        "url": "https://github.com/vuetifyjs/vuetify-vscode/issues"
+    },
+    "categories": [
+        "Snippets",
+        "Other"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "vue",
+                "path": "./snippets/vuetify.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/javascript.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/vuetify.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/vuetify.json"
+            },
+            {
+                "language": "jade",
+                "path": "./snippets/vuetify.json"
+            }
+        ]
+    }
 }

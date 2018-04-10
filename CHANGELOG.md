@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to `vuetify-vscode` will be documented in this file.
 
+## 0.1.5 - 2018-04-10
+### Fixed
+- [#2](https://github.com/vuetifyjs/vuetify-vscode/issues/2) fixed issue with vGridBreakpointObject not working in script tag (thanks **@codeitlikemiley**)
+
 ## 0.1.4 - 2018-03-16
 ### Added
 - added missing `vCarouselItem` snippet
