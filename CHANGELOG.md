@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to `vuetify-vscode` will be documented in this file.
 
+## 0.1.6 - 2018-04-10
+### Fixed
+- [#2](https://github.com/vuetifyjs/vuetify-vscode/issues/1) fixed issue with missing quote for `vParallaxTemplateContent` (thanks **@codeitlikemiley**)
+
 ## 0.1.5 - 2018-04-10
 ### Fixed
 - [#2](https://github.com/vuetifyjs/vuetify-vscode/issues/2) fixed issue with vGridBreakpointObject not working in script tag (thanks **@codeitlikemiley**)

@@ -6145,7 +6145,7 @@
   "v-parallax template with content": {
     "prefix": "vParallaxTemplateContent",
     "body": [
-      "<v-parallax src=${1:src}\">",
+      "<v-parallax src=\"${1:src}\">",
       "  <v-layout column align-center justify-center>",
       "    <h1 class=\"${2|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}--text\">${3:Vuetify.js}</h1>",
       "    <h4 class=\"${4|red,pink,purple,deep-purple,indigo,blue,light-blue,cyan,teal,green,light-green,lime,yellow,amber,orange,deep-orange,brown,blue-grey,grey,black,white,transparent|}--text\">${4:Build your application today!}</h4>",
