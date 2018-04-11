@@ -5430,7 +5430,7 @@
     "body": [
       "<v-list>",
       "  $1",
-      "<v-list>$0"
+      "</v-list>$0"
     ],
     "description": "v-list component - Vuetify"
   },
@@ -5439,7 +5439,7 @@
     "body": [
       "<v-list two-line>",
       "  $1",
-      "<v-list>$0"
+      "</v-list>$0"
     ],
     "description": "v-list with two-line prop - Vuetify"
   },
@@ -5448,7 +5448,7 @@
     "body": [
       "<v-list three-line>",
       "  $1",
-      "<v-list>$0"
+      "</v-list>$0"
     ],
     "description": "v-list with three-line prop - Vuetify"
   },
